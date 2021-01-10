@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+header{
+  background: darkgreen;
+  color: white;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.just-between{
+  justify-content: space-between;
+}
+
+.align-center{
+  align-items: center;
+}
+
+.mx-10{
+  margin:0 10px;
+}
